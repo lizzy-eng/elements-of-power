@@ -1,0 +1,20 @@
+{
+  "title": "Elements of Power | Water | Part 1",
+  "element": "WATER",
+  "accent": "#c45670",
+  "look": "epic cosmic fantasy digital painting, cinematic movie frame, deep space nebula and storm clouds backdrop in dark navy and charcoal, glowing elemental energy, luminous sci fi light, majestic and reverent, rich color with soft rose pink accents, highly detailed, no text, no words, no letters",
+  "opener_img": "https://raw.githubusercontent.com/lizzy-eng/elements-of-power/main/assets/opener_16.png",
+  "logo_img": "https://raw.githubusercontent.com/lizzy-eng/elements-of-power/main/assets/logo_avatar.png",
+  "scenes": [
+    {"kind": "opener", "label": "Water changes your nervous system.", "ref": "Part 1",
+     "narr": "Water changes your nervous system. This is Water, part one of Elements of Power."},
+    {"kind": "teach", "ref": "White et al. 2020, Environmental Research",
+     "narr": "Scientists across eighteen countries studied what they call blue space, time near oceans, rivers, lakes, even fountains. Being close to water was linked again and again to lower stress, a slower heart rate, and calmer breathing. Your body reads water as a signal of peace.",
+     "vis": "luminous turquoise ocean waves glowing with blue light under a cosmic starry sky, gentle silver mist rising, ethereal and sacred"},
+    {"kind": "declare", "label": "I flow.\nPeace moves through me.",
+     "narr": "Speak this over yourself. I flow. Peace moves through me like water.",
+     "vis": "ribbons of glowing turquoise water light swirling upward into a starry cosmic sky"},
+    {"kind": "cta", "label": "Day 7: spend ten minutes\nnear water and breathe slow.", "ref": "Activate the Elements",
+     "narr": "Here is your activation. Spend ten minutes near water today and slow your breath. Follow for Fire, part one."}
+  ]
+}

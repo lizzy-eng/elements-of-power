@@ -1,0 +1,20 @@
+{
+  "title": "Elements of Power | Fire | Part 1",
+  "element": "FIRE",
+  "accent": "#c45670",
+  "look": "epic cosmic fantasy digital painting, cinematic movie frame, deep space nebula and storm clouds backdrop in dark navy and charcoal, glowing elemental energy, luminous sci fi light, majestic and reverent, rich color with soft rose pink accents, highly detailed, no text, no words, no letters",
+  "opener_img": "https://raw.githubusercontent.com/lizzy-eng/elements-of-power/main/assets/opener_02.png",
+  "logo_img": "https://raw.githubusercontent.com/lizzy-eng/elements-of-power/main/assets/logo_avatar.png",
+  "scenes": [
+    {"kind": "opener", "label": "Why can you not look away from fire?", "ref": "Part 1",
+     "narr": "Why can you not look away from fire? This is Fire, part one of Elements of Power."},
+    {"kind": "teach", "ref": "Lynn 2014, Evolutionary Psychology",
+     "narr": "An anthropologist at the University of Alabama tested two hundred and twenty six people. Watching a fire with its crackling sound lowered their blood pressure, and the longer they watched, the calmer they became. Without the sound, the effect vanished. Fire speaks to something ancient in you.",
+     "vis": "a glowing campfire with golden orange flames and rising embers against a deep cosmic night sky, hypnotic sacred fire"},
+    {"kind": "declare", "label": "I carry sacred fire.\nMy focus is power.",
+     "narr": "Speak this over yourself. I carry sacred fire. My focus is power.",
+     "vis": "a single radiant flame of gold and rose light burning steady in cosmic darkness, embers rising like stars"},
+    {"kind": "cta", "label": "Day 13: watch a candle flame\nfor three minutes tonight.", "ref": "Activate the Elements",
+     "narr": "Here is your activation. Watch a candle flame for three minutes tonight, and listen to it. Follow for Air, part one."}
+  ]
+}

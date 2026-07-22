@@ -1,0 +1,20 @@
+{
+  "title": "Elements of Power | Earth | Part 1",
+  "element": "EARTH",
+  "accent": "#c45670",
+  "look": "epic cosmic fantasy digital painting, cinematic movie frame, deep space nebula and storm clouds backdrop in dark navy and charcoal, glowing elemental energy, luminous sci fi light, majestic and reverent, rich color with soft rose pink accents, highly detailed, no text, no words, no letters",
+  "opener_img": "https://raw.githubusercontent.com/lizzy-eng/elements-of-power/main/assets/opener_14.png",
+  "logo_img": "https://raw.githubusercontent.com/lizzy-eng/elements-of-power/main/assets/logo_avatar.png",
+  "scenes": [
+    {"kind": "opener", "label": "Your body was built to touch the earth.", "ref": "Part 1",
+     "narr": "Your body was built to touch the earth. This is Earth, part one of Elements of Power."},
+    {"kind": "teach", "ref": "Ghaly and Teplitz 2004",
+     "narr": "In an early study, people slept connected to the ground, skin to earth. Researchers watched their stress hormone, cortisol, settle into a healthier daily rhythm, and many reported less pain and deeper sleep. Scientists call it grounding, and it may be the oldest medicine there is.",
+     "vis": "bare feet standing on rich dark soil, glowing golden energy rising from the cracked earth, roots of light spreading outward, cosmic night sky above"},
+    {"kind": "declare", "label": "I am grounded.\nMy power is steady.",
+     "narr": "So speak this over yourself. I am grounded. My power is steady.",
+     "vis": "a glowing green and gold aura of light rising from dark forest ground under a cosmic starry sky"},
+    {"kind": "cta", "label": "Day 1: stand barefoot on\nthe earth for five minutes.", "ref": "Activate the Elements",
+     "narr": "Here is your activation. Day one of the Activate the Elements challenge. Stand barefoot on the earth for five minutes today. Follow for Water, part one."}
+  ]
+}
