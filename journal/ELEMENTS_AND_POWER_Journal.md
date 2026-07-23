@@ -527,7 +527,7 @@ Sit for five to ten minutes and breathe slowly, resting your attention on the na
 
 ---
 
-# ELEMENT V · SPIRIT
+# SPIRIT · THE SOURCE
 
 ## Days 25 to 30 · The Crown of Power
 
@@ -640,10 +640,10 @@ All four elements are alive in me, the Source breathes through them, and I am wh
 **I am grounded, flowing, burning, breathing, and connected. I am activated.**
 
 **REFLECT**
-Which element changed me most this month, and how will I keep all five alive from here?
+Which element changed me most this month, and how will I keep all four elements, and my connection to the Source, alive from here?
 
 **ACTIVATE**
-Do the five element sweep, about two minutes each: stand barefoot and feel the ground, drink a slow glass of water with full attention, watch a candle or imagine your inner flame, take ten slow conscious breaths, then close your eyes and feel gratitude for the whole journey. Ten minutes. Full circle. Fully activated.
+Do the full sweep, the four elements and then the Source, about two minutes each: stand barefoot and feel the ground, drink a slow glass of water with full attention, watch a candle or imagine your inner flame, take ten slow conscious breaths, then close your eyes and feel gratitude for the whole journey. Ten minutes. Full circle. Fully activated.
 
 ---
 
