@@ -531,7 +531,7 @@ Sit for five to ten minutes and breathe slowly, resting your attention on the na
 
 ## Days 25 to 30 · The Crown of Power
 
-Spirit is the Source (never a fifth element), the one that moves through the other four and outlasts them. It is awe, meaning, connection, and the quiet knowing that you are part of something vast. For six days you will practice wonder, purpose, and union, gathering all five elements into one activated life.
+Spirit is the Source, never an element. Spirit moves through all four elements and outlasts them, gives each one its power, and made everything come alive. It is awe, meaning, connection, and the quiet knowing that you are part of something vast. For six days you will practice wonder, purpose, and union, gathering the four elements under the Source into one activated life.
 
 Awe itself leaves fingerprints on the body. Researchers at UC Berkeley found that people who experienced more awe showed lower levels of an inflammation linked marker called interleukin 6 (Stellar et al, 2015, Emotion).
 
