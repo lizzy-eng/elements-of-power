@@ -1,4 +1,7 @@
 ---
+
+> DOCTRINE (Lizzy, 2026-07-23, non-negotiable): There are FOUR elements: Earth, Water, Fire, Air. Spirit is NOT an element and is never to be called one. Spirit is the SOURCE, the one who gives every element its power and made everything come alive. Spirit content honors the Source ABOVE the elements.
+
 name: elements-of-power
 description: Produce Elements of Power channel content end to end on the FREE stack. Use whenever Lizzy says "make an Elements short about X", "Elements of Power", "element short", "activate the elements", or drops studies for the channel. Covers the whole pipeline: sourced fact from the knowledge base or Studies intake folder, script in brand voice, Fish Audio narration, style locked visuals, lme-render cloud render, QA gates, PRIVATE Drive delivery, and the merch/journal funnel. Never rebuild any of this; it exists.
 ---
@@ -6,7 +9,7 @@ description: Produce Elements of Power channel content end to end on the FREE st
 # ELEMENTS OF POWER — the channel engine (built 2026-07-21, never rebuild)
 
 Channel: Elements of Power (handle @ElementsAndPower, name/handle final call is Lizzy's).
-Teaches the five elements (earth, water, fire, air, spirit) with REAL sourced studies.
+Teaches the four elements (earth, water, fire, air), with Spirit honored as the Source above them with REAL sourced studies.
 Feel: EDUCATIONAL + MYSTICAL + SCI FI + EMPOWERING. Funnel: short -> Activate the
 Elements challenge -> 30 day journal -> mug/tee on Etsy.
 

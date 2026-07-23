@@ -1,4 +1,7 @@
 # NBM Elements of Power, Channel Plan
+
+> DOCTRINE (Lizzy, 2026-07-23, non-negotiable): There are FOUR elements: Earth, Water, Fire, Air. Spirit is NOT an element and is never to be called one. Spirit is the SOURCE, the one who gives every element its power and made everything come alive. Spirit content honors the Source ABOVE the elements.
+
 **Document: NBM_ElementsPower_ChannelPlan_2026-07-21_CT**
 Prepared 2026-07-21, Central Time. Channel Strategist deliverable for Lizzy Morris, Next Best Move Digital.
 Creative direction locked: EDUCATIONAL + MYSTICAL + SCI-FI + EMPOWERING. Every claim grounded in a real, sourced study.
@@ -31,7 +34,7 @@ Options, in order of preference:
 ### 1.4 About / channel description copy
 Ready to paste. No links go in until each listing is verified live.
 
-> Earth. Water. Fire. Air. Spirit. Five elements, one you.
+> Earth. Water. Fire. Air. And above them, Spirit, the Source. Four elements, one Source, one you.
 >
 > Elements of Power teaches the real, published science behind the spiritual power of the elements. Every short is grounded in a peer reviewed study, cited on screen. No fluff, no folklore dressed as fact, just what the research actually shows and how to use it.
 >

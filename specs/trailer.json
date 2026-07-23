@@ -6,8 +6,8 @@
   "opener_img": "https://raw.githubusercontent.com/lizzy-eng/elements-of-power/main/assets/logo_seed_1.png",
   "logo_img": "https://raw.githubusercontent.com/lizzy-eng/elements-of-power/main/assets/logo_avatar.png",
   "scenes": [
-    {"kind": "opener", "label": "Five elements. Real science. Sacred power.", "ref": "Welcome",
-     "narr": "There are five elements. Earth. Water. Fire. Air. Spirit. And inside every one of them is a power that science is only beginning to measure."},
+    {"kind": "opener", "label": "Four elements. One Source. Real science.", "ref": "Welcome",
+     "narr": "There are four elements. Earth. Water. Fire. Air. And above them all stands Spirit, the Source, the one who gives every element its power. Inside each element is a power that science is only beginning to measure."},
     {"kind": "teach", "ref": "Real studies, cited in every episode",
      "narr": "Grounding studies watched the stress hormone cortisol settle when skin met soil.",
      "vis": "bare feet on dark rich soil with golden light rising, roots of light spreading, cosmic sky"},
@@ -21,12 +21,12 @@
      "narr": "Stanford found that five minutes a day of slow sighing breath lifted mood more than meditation.",
      "vis": "silver luminous wind spirals and a glowing breath of light over mountain peaks under stars"},
     {"kind": "teach", "ref": "",
-     "narr": "And awe itself, that shiver of wonder, is linked to lower inflammation in your blood.",
-     "vis": "a violet nebula of divine light descending as a radiant column through cosmic clouds, sacred awe"},
-    {"kind": "declare", "label": "You were built\nto hold the elements.",
-     "narr": "You were built to hold the elements. Every episode takes one real study and turns it into one sacred practice you can activate today.",
-     "vis": "five orbs of light, green, blue, orange, silver, violet, orbiting in a cosmic circle of rose light"},
+     "narr": "And when you stand in awe before the Source of it all, even that leaves a trace, wonder itself is linked to lower inflammation in your blood.",
+     "vis": "a violet column of divine light descending from the heavens through cosmic clouds, sacred awe, radiant glory"},
+    {"kind": "declare", "label": "Four elements in your hands.\nOne Source above them all.",
+     "narr": "You were built to carry the four elements, and to be powered by the One who made them. Every episode takes one real study and turns it into one sacred practice you can activate today.",
+     "vis": "four orbs of light, green, blue, orange, silver, orbiting beneath one radiant violet white light in a cosmic circle of rose light"},
     {"kind": "cta", "label": "Join the Activate the\nElements challenge.", "ref": "New shorts every week",
-     "narr": "Join the Activate the Elements challenge. Earth. Water. Fire. Air. Spirit. Your power is waiting. Subscribe and begin."}
+     "narr": "Join the Activate the Elements challenge. Earth. Water. Fire. Air. And the Source above them all. Your power is waiting. Subscribe and begin."}
   ]
 }

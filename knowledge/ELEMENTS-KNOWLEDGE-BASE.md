@@ -1,5 +1,8 @@
 # Elements of Power — Sourced Science Knowledge Base
 
+> DOCTRINE (Lizzy, 2026-07-23, non-negotiable): There are FOUR elements: Earth, Water, Fire, Air. Spirit is NOT an element and is never to be called one. Spirit is the SOURCE, the one who gives every element its power and made everything come alive. Spirit content honors the Source ABOVE the elements.
+
+
 Every short must teach a fact from this base or a new entry added with a real, verified
 source. NEVER state a fact the research does not support. If a source is missing, flag it
 and ask Lizzy; do not invent. Confidence phrasing is part of the fact: "an early study
@@ -33,7 +36,7 @@ found" for small or contested samples, plain statement only where marked SOLID.
    Li et al. 2009, Int. J. Immunopathology and Pharmacology 22(4):951-959, DOI 10.1177/039463200902200410.
    HANDLE WITH CARE: n~12-13, single lab. "Studies by forest medicine researchers found".
 
-## SPIRIT / ETHER (awe, meditation)
+## SPIRIT, THE SOURCE (NOT an element; awe, meditation, connection to the Source)
 10. Awe was the positive emotion most strongly ASSOCIATED with lower IL-6 inflammation markers. Correlational; say "linked to", never "reduces".
     Stellar et al. 2015, Emotion 15(2):129-133, DOI 10.1037/emo0000033, UC Berkeley. USED: trailer; planned Spirit Part 1.
 11. Three month intensive meditation retreat: ~one third higher immune cell telomerase vs matched controls. One marker, one time point; "linked to cellular health markers", never "live longer".

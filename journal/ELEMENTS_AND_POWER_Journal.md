@@ -1,12 +1,15 @@
 # ELEMENTS AND POWER
 
+> DOCTRINE (Lizzy, 2026-07-23, non-negotiable): There are FOUR elements: Earth, Water, Fire, Air. Spirit is NOT an element and is never to be called one. Spirit is the SOURCE, the one who gives every element its power and made everything come alive. Spirit content honors the Source ABOVE the elements.
+
+
 ## A 30 Day Activation Journal
 
 *Elements of Power*
 
-Earth. Water. Fire. Air. Spirit.
+Earth. Water. Fire. Air. And above them, Spirit, the Source.
 
-Thirty days. Five elements. One activated you.
+Thirty days. Four elements and one Source. One activated you.
 
 ---
 
@@ -14,7 +17,7 @@ Thirty days. Five elements. One activated you.
 
 You are holding thirty days of activation.
 
-The ancients read the world through five elements. Earth beneath them, water around them, fire before them, air within them, and spirit above and through it all. They were not wrong. Modern research keeps circling back to what they knew by instinct: the ground calms us, water soothes us, flame steadies us, breath rewires us, and awe heals us.
+The ancients read the world through four elements. Earth beneath them, water around them, fire before them, and air within them. And above and through it all, Spirit, the Source who gives every element its power. They were not wrong. Modern research keeps circling back to what they knew by instinct: the ground calms us, water soothes us, flame steadies us, breath rewires us, and awe heals us.
 
 This journal walks you through each element, six days at a time. Every day gives you a short teaching, an affirmation to hold, a declaration to speak out loud, a question to sit with, and one small action that takes five to ten minutes. That is all. No equipment, no cost, no performance. Just you, the elements, and a little daily devotion to your own power.
 
@@ -528,7 +531,7 @@ Sit for five to ten minutes and breathe slowly, resting your attention on the na
 
 ## Days 25 to 30 · The Crown of Power
 
-Spirit is the fifth element, the one that moves through the other four and outlasts them. It is awe, meaning, connection, and the quiet knowing that you are part of something vast. For six days you will practice wonder, purpose, and union, gathering all five elements into one activated life.
+Spirit is the Source (never a fifth element), the one that moves through the other four and outlasts them. It is awe, meaning, connection, and the quiet knowing that you are part of something vast. For six days you will practice wonder, purpose, and union, gathering all five elements into one activated life.
 
 Awe itself leaves fingerprints on the body. Researchers at UC Berkeley found that people who experienced more awe showed lower levels of an inflammation linked marker called interleukin 6 (Stellar et al, 2015, Emotion).
 
@@ -628,10 +631,10 @@ Do a five minute release ritual: write the outcome you cannot control on paper, 
 
 ## DAY 30 · SPIRIT
 
-**Teaching.** Today, activating Spirit means integration, the gathering of all five elements into one whole and activated you. You have landed like Earth, flowed like Water, ignited like Fire, and risen like Air, and Spirit now binds them into a single daily way of being. This is not the end of the practice; it is the day the practice becomes yours.
+**Teaching.** Today, opening to Spirit means integration, the Source gathering all four elements into one whole and activated you. You have landed like Earth, flowed like Water, ignited like Fire, and risen like Air, and Spirit now binds them into a single daily way of being. This is not the end of the practice; it is the day the practice becomes yours.
 
 **AFFIRMATION**
-All five elements are alive in me, and I am whole.
+All four elements are alive in me, the Source breathes through them, and I am whole.
 
 **DECLARATION**
 **I am grounded, flowing, burning, breathing, and connected. I am activated.**
@@ -648,7 +651,7 @@ Do the five element sweep, about two minutes each: stand barefoot and feel the g
 
 ## An Invitation
 
-You did it. Thirty days, five elements, one evolved and activated you.
+You did it. Thirty days, four elements, one Source, one evolved and activated you.
 
 But activation is not a finish line; it is a frequency you now know how to find. Keep finding it, and keep finding it with us.
 

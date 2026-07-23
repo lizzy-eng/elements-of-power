@@ -54,7 +54,7 @@ Formula: cover width = bleed 0.125 + back 6 + spine + front 6 + bleed 0.125. Cov
 
 * Front cover: the locked Elements of Power heroine emblem, the cosmic circle with water on the left and fire on the right, centered in the upper two thirds. Title ELEMENTS AND POWER in cream, Helvetica style bold caps, beneath the emblem. Subtitle A 30 Day Activation Journal in rose pink #C45670. Bottom edge: the five element names in small rose caps, EARTH WATER FIRE AIR SPIRIT, separated by middle dots.
 * Background across the full wrap: deep cosmic navy #0E1226 into charcoal #161B36, with the same subtle star field used in the interior. Rose pinline frame 0.35 in inside the trim on front and back.
-* Back cover: three short benefit lines (thirty days, five elements, five to ten minutes a day), the invitation to the Elements of Power YouTube channel and the Activate the Elements challenge, and clear space for the barcode zone.
+* Back cover: three short benefit lines (thirty days, four elements and the Source, five to ten minutes a day), the invitation to the Elements of Power YouTube channel and the Activate the Elements challenge, and clear space for the barcode zone.
 * Palette lock: navy and charcoal backgrounds, rose pink #C45670 accents, cream #F3EBDD text. Never black, yellow, gold, amber, or brown backgrounds.
 
 ## Copy laws for every print asset
