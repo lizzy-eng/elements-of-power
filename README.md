@@ -1,7 +1,7 @@
 # Elements of Power
 
-v1.0.0. The complete engine for the Elements of Power YouTube channel: five element
-series (earth, water, fire, air, and Spirit the Source above them) taught from REAL sourced studies, rendered on
+v1.0.1. The complete engine for the Elements of Power YouTube channel: four element
+series (Earth, Water, Fire, Air) with Spirit honored as the Source above them, never a fifth element, taught from REAL sourced studies, rendered on
 the free cloud stack (Fish Audio voice, Workers AI flux art, Remotion on lme-render
 public Actions), funneling into the Activate the Elements 30 day challenge, the
 ELEMENTS AND POWER journal, and declaration merch on Etsy.
